@@ -5,6 +5,4 @@ __pycache__/
 .DS_Store
 .env
 *.log
-
-# data exports (optional — keep if you don't want CSVs committed)
 data/
