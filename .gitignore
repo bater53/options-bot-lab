@@ -6,3 +6,20 @@ __pycache__/
 .env
 *.log
 data/
+.venv_win/
+.venv_bad/
+.venv_bad_OLD/
+*.pyd
+*.pdb
+*.dll
+*.exe
+*.dist-info/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+# virtual envs
+# python
+# notebooks / OS
+# secrets / logs
+# data output
